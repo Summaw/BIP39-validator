@@ -27,3 +27,6 @@ A secure web tool for validating Bitcoin BIP39 seed phrases. This tool allows us
 
 - BitWasp/bitcoin-php library
 - PHP 7.0+ with GMP extension
+
+# Valid BIP39 generator:
+- https://iancoleman.io/bip39/
